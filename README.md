@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project. Adding line for rebasing, then more changes from myfeature branch.
+Emergency fix after stash
 
 ## Introdution
 
