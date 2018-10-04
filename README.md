@@ -15,3 +15,7 @@ To provide simple example for git training demos.
 Deployment can be on any web server or event local file system.
 
 ## How to Contribute
+
+### Copyright
+
+2018 Git Training
