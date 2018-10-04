@@ -20,4 +20,4 @@ Fork this repository and issue pull request
 
 ### Copyright
 
-2018 Git Training
+2018 Git Training. All rights reserved
