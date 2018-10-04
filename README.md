@@ -16,6 +16,8 @@ Deployment can be on any web server or event local file system.
 
 ## How to Contribute
 
+Fork this repository and issue pull request
+
 ### Copyright
 
 2018 Git Training
